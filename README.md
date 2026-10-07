@@ -12,13 +12,13 @@ Turning data into meaningful insights and practical solutions.
 
 ## 🚀 Featured Projects
 
-### 🎬 [Final Capstone Project: OTT Platform Viewing Patterns](https://github.com)
-- **Tools:** Python (Pandas, NumPy, Seaborn), MySQL, Power BI, Excel
+### 🎬 [Final Capstone Project: OTT Platform Viewing Patterns](https://github.com/SrinivasPatel1909/OTT-Platform-Project)
+- **Tools:** Python (Pandas, NumPy, Seaborn), MySQL, Power BI, Excel , Machine Learning , Statistics , EDA
 - **Impact:** Analyzed raw user datasets to uncover demographic engagement metrics, tracked viewing behaviors, and built an interactive dashboard to predict user retention rates and churn risk.
 
-### 💰 [MySQL: Finance Tracker System](https://github.com)
-- **Tools:** SQL, MySQL, Advanced Joins, Aggregate Functions, Group By
-- **Impact:** Developed a relational database schema to analyze transactional spending habits, optimize complex query execution performance, and identify top savings opportunities.
+### 💰 [PowerBI: Executive Sales and Revenue Performance Analysis](https://github.com/SrinivasPatel1909/Executive-Sales-and-Revenue-Performance-Analysis-Power-BI-)
+- **Tools:** DAX , PowerBI
+- **Impact:** This project developed a dynamic dashboard to evaluate corporate sales performance and revenue metrics across diverse regional markets. It tracks essential KPIs, geographic trends, and customer segments to provide leadership with a single view of business health. By identifying top-performing areas and product lines, the tool pinpoints clear opportunities for strategic growth.
 
 ---
 
